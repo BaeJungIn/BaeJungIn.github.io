@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Nav.module.css"],"names":[],"mappings":"AAAA,oBACI,oBAAqB,CACrB,wBACJ","file":"main.d05991a6.chunk.css","sourcesContent":[".navLink{\r\n    text-decoration: none;\r\n    background-color: darkslategray;\r\n}"]}
